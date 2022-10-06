@@ -1,0 +1,47 @@
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
+/* Navbar */
+
+/* first-section */
+.first-container {
+  background-image: url("https://media.istockphoto.com/photos/home-office-picture-id1254459991?k=20&m=1254459991&s=612x612&w=0&h=uFLLTin8umgZoh5QHRMI9ZLSrkITbfrKP7zqCLBwscg=");
+  background-repeat: no-repeat;
+  width: 100vw;
+  background-color: black;
+  background-size: cover;
+  min-height: 80vh;
+}
+.content {
+  position: absolute;
+  color: white;
+  width: 30vw;
+  padding: 1rem;
+  margin-left: 6rem;
+  margin-top: 7rem;
+}
+strong {
+  color: yellow;
+}
+.buttons {
+  position: absolute;
+}
+/* panel */
+.panel {
+  background-color: rgb(60, 60, 143);
+  margin-bottom: 2rem;
+}
+.panel h2 {
+  color: white;
+}
+/* second-section */
+.container .text-center {
+  position: absolute;
+  margin-top: 50vw;
+}
+
+.title {
+  color: blue;
+  font-size: 0.8rem;
+}
